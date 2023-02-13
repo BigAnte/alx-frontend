@@ -546,8 +546,8 @@ ul.row {
   float: left;
   padding: 0.5rem;
 }
-[class*="c0l-"]{
-  float=left;
+[class*="col-"] {
+  float:left;
   padding:0.5rem
 }
 
