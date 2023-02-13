@@ -570,7 +570,7 @@ ul.row {
   text-align: right;
 }
 .footer-address {
-  color: vat(--text-color);
+  color: var(--text-color);
 }
 .social-link{
   display:block;
